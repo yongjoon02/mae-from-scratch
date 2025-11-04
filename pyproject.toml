@@ -1,0 +1,16 @@
+[project]
+name = "mae-from-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "autorootcwd>=1.0.1",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "lightning>=2.5.5",
+    "matplotlib>=3.10.7",
+    "notebook>=7.4.7",
+    "numpy>=2.2.6",
+    "timm>=1.0.21",
+]
